@@ -8,13 +8,21 @@ A comprehensive plugin development platform for WordPress.
 
 Aipex Client OS is an AI-powered operating system that manages software projects from idea to commercial release through specialist AI agents, GitHub integration, structured workflows and permanent project memory.
 
-## Core Principle
+## Core Principles
 
-**Never lose project knowledge.**
+### 1. Never lose project knowledge.
 
 Code can be regenerated. Context cannot.
 
 Every requirement, decision, discussion, asset, screenshot, diagram, prompt, issue, commit and architectural choice should become part of the permanent project memory so development can continue at any point without losing context.
+
+### 2. Never ask twice.
+
+If information already exists in an approved project artefact, GitHub, uploaded asset or linked source, reuse it instead of asking for it again.
+
+### 3. Everything should be inspectable.
+
+Every AI decision, prompt, artefact, stage transition, code change, review, GitHub action and release decision should leave an auditable trail that explains what changed, why it changed and who or what made the decision.
 
 ## Objectives
 
